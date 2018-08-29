@@ -1,3 +1,6 @@
 1. https://watchandcode.com/p/practical-javascript
+	- Basic Javascript tutorial, creator Gordon Zhu also created the 'annotated' Eloquent JS.
 2. https://www.udemy.com/the-complete-web-developer-in-2018/
-3.https://github.com/getify/You-Dont-Know-JS
+	- Course by Andrei Neagoie, a self taught developer teaching the modern tools for web development.
+3. https://github.com/getify/You-Dont-Know-JS
+	- Book series on core mechanics of Javascript.
