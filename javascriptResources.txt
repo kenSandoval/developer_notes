@@ -4,3 +4,7 @@
 	- Course by Andrei Neagoie, a self taught developer teaching the modern tools for web development.
 3. https://github.com/getify/You-Dont-Know-JS
 	- Book series on core mechanics of Javascript.
+	
+React Notes: 
+	- React is a view library.
+	- Componenets must render 'something'.
