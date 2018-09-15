@@ -4,6 +4,8 @@
 	- Course by Andrei Neagoie, a self taught developer teaching the modern tools for web development.
 3. https://github.com/getify/You-Dont-Know-JS
 	- Book series on core mechanics of Javascript.
+4. https://javascript30.com/
+	- Video series of Vanilla JS Coding Challenges.
 	
 React Notes: 
 	- React is a view library.
