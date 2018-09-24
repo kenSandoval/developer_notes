@@ -6,6 +6,7 @@
 	- Book series on core mechanics of Javascript.
 4. https://javascript30.com/
 	- Video series of Vanilla JS Coding Challenges.
+5. TheOdinProject
 	
 React Notes: 
 	- React is a view library.
