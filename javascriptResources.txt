@@ -6,7 +6,8 @@
 	- Book series on core mechanics of Javascript.
 4. https://javascript30.com/
 	- Video series of Vanilla JS Coding Challenges.
-5. TheOdinProject
+5. https://www.theodinproject.com/
+	- Online Web Development Bootcamp loosely based on AppAcademy
 	
 React Notes: 
 	- React is a view library.
