@@ -7,7 +7,9 @@
 4. https://javascript30.com/
 	- Video series of Vanilla JS Coding Challenges.
 5. https://www.theodinproject.com/
-	- Online Web Development Bootcamp loosely based on AppAcademy
+	- Online Web Development Bootcamp loosely based on AppAcademy  
+6. https://open.appacademy.io/  
+	- AppAcademy Curriculum but now FREE
 	
 React Notes: 
 	- React is a view library.
